@@ -23,6 +23,8 @@ MOD02HKM;1B;S;Level 1B Calibrated Radiance 500m - Terra;500.00;EV_250_Aggr500_Re
 MOD02QKM;1B;S;Level 1B Calibrated Radiance 250m - Terra;250.00;EV_250_RefSB
 MOD02SSH;1B;S;Level 1B Calibrated Radiance 5km - Terra;5000.00;EV_250_Aggr1km_RefSB,EV_500_Aggr1km_RefSB,EV_1KM_RefSB,EV_1KM_Emissive
 MOD03;1X;S;Geolocation Fields 1km - Terra;1000.00;NA
+MOD04_3K;2;S;Aerosol Product 3km - Terra;3000.00;NA
+MYD04_3K;2;S;Aerosol Product 3km - Aqua;3000.00;NA
 MOD04_L2;2;S;Aerosol Product - Terra;1000.00;NA
 MOD05_L2;2;S;Precipitable Water - Terra;1000.00,5000.00;NA
 MOD06_L2;2;S;Cloud Product - Terra;1000.00;NA
