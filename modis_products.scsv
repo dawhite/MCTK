@@ -89,7 +89,7 @@ MOD43C4;4;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 0.05Deg CMG - Terra;0.05;N
 MOD44A;3;G;Vegetation Cover Conversion Quarterly L3 Global 250m;250.00;NA;0
 MOD44B;3;G;Vegetation Continuous Fields Yearly L3 Global 500m;500.00;NA;0
 MOD45A1;3;G;Burned Area Monthly L3 Global 500m - Terra;500.00;NA;0
-MODATML2;2;S;Atmosphere Joint Product - Terra;5000.00,10000.00;NA;0
+MODATML2;2;S;Aerosol, Cloud and Water Vapor Subset 5-Min L2 Swath 5km and 10km - Terra;5000.00,10000.00;NA;0
 MODMGGAD;2G;G;Geolocation Angles Daily L2G Global 1km Day - Terra;1000.00;NA;0
 MODPT1KD;2G;G;Observation Pointers Daily L2G Global 1km Day - Terra;1000.00;NA;0
 MODPTHKM;2G;G;Observation Pointers Daily L2G Global 500m - Terra;500.00;NA;0
@@ -146,7 +146,7 @@ MYD29E1D;3;G;Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day - Aqua;400
 MYD29P1D;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Day - Aqua;1000.00;NA;0
 MYD29P1N;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Night - Aqua;1000.00;NA;0
 MYD35_L2;2;S;Cloud Mask - Aqua;250.00,1000.00;NA;0
-MYDATML2;2;S;Atmosphere Joint Product - Aqua;5000.00,10000.00;NA;0
+MYDATML2;2;S;Aerosol, Cloud and Water Vapor Subset 5-Min L2 Swath 5km and 10km - Aqua;5000.00,10000.00;NA;0
 MYDMGGAD;2G;G;Geolocation Angles Daily L2G Global 1km Day - Aqua;1000.00;NA;0
 MYDPT1KD;2G;G;Observation Pointers Daily L2G Global 1km Day - Aqua;1000.00;NA;0
 MYDPTHKM;2G;G;Observation Pointers Daily L2G Global 500m - Aqua;500.00;NA;0
