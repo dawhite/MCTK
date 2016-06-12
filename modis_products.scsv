@@ -1,155 +1,239 @@
-Symbol;Level;Type;Name;GSD;Datasets;Sparse
-MCD12C1;3;G;Land Cover Type Yearly L3 Global 0.05Deg CMG - Combined;0.05;NA;0
-MCD12Q1;3;G;Land Cover Type Yearly L3 Global 500m - Combined;500.00;NA;0
-MCD12Q2;3;G;Land Cover Dynamics Yearly L3 Global 1km - Combined;1000.00;NA;0
-MCD15A2;4;G;MODIS/Terra+Aqua Gridded 1KM FPAR and LAI (8-day composite);1000.00;NA;0
-MCD15A3;4;G;MODIS/Terra+Aqua Gridded 1KM FPAR and LAI (4-day composite);1000.00;NA;0
-MCD43A1;4;G;BRDF/Albedo Model Parameters 16-Day L3 Global 500m - Combined;500.00;NA;0
-MCD43A2;4;G;BRDF/Albedo Quality 16-Day L3 Global 500m - Combined;500.00;NA;0
-MCD43A3;4;G;Albedo 16-Day L3 Global 500m - Combined;500.00;NA;0
-MCD43A4;4;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 Global 500m - Combined;500.00;NA;0
-MCD43B1;3;G;BRDF/Albedo Model Parameters 16-Day L3 Global 1km - Combined;1000.00;NA;0
-MCD43B2;4;G;BRDF/Albedo Quality 16-Day L3 Global 1km - Combined;1000.00;NA;0
-MCD43B3;3;G;Albedo 16-Day L3 Global 1km - Combined;1000.00;NA;0
-MCD43B4;3;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 Global 1km - Combined;1000.00;NA;0
-MCD43C1;3;G;BRDF/Albedo Parameters 16-Day L3 0.05Deg CMG - Combined;0.05;NA;0
-MCD43C2;4;G;BRDF/Albedo Snow-Free Quality 16-Day L3 Global 0.05Deg CMG - Combined;0.05;NA;0
-MCD43C3;3;G;Albedo 16-Day L3 Global 0.05Deg CMG - Combined;0.05;NA;0
-MCD43C4;4;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 0.05Deg CMG - Combined;0.05;NA;0
-MCD45A1;3;G;Burned Area Monthly L3 Global 500m - Combined;500.00;NA;0
-MOD01;1A;S;Level 1A Radiance - Terra;250.00,500.00,1000.00,1000.00;EV_250m,EV_500m,EV_1km_day,EV_1km_night;0
-MOD021KM;1B;S;Level 1B Calibrated Radiance 1km - Terra;1000.00;EV_250_Aggr1km_RefSB,EV_500_Aggr1km_RefSB,EV_1KM_RefSB,EV_1KM_Emissive;0
-MOD02HKM;1B;S;Level 1B Calibrated Radiance 500m - Terra;500.00;EV_250_Aggr500_RefSB,EV_500_RefSB;0
-MOD02QKM;1B;S;Level 1B Calibrated Radiance 250m - Terra;250.00;EV_250_RefSB;0
-MOD02SSH;1B;S;Level 1B Calibrated Radiance 5km - Terra;5000.00;EV_250_Aggr1km_RefSB,EV_500_Aggr1km_RefSB,EV_1KM_RefSB,EV_1KM_Emissive;0
-MOD03;1X;S;Geolocation Fields 1km - Terra;1000.00;NA;0
-MOD04_3K;2;S;Aerosol Product 3km - Terra;3000.00;NA;0
-MOD04_L2;2;S;Aerosol Product - Terra;1000.00;NA;0
-MOD05_L2;2;S;Precipitable Water - Terra;1000.00,5000.00;NA;0
-MOD06_L2;2;S;Cloud Product - Terra;1000.00;NA;0
-MOD07_L2;2;S;Atmospheric Profile - Terra;1000.00;NA;0
-MOD08_D3;3;G;Atmosphere Daily Global Product - Terra;1.00;NA;0
-MOD08_E3;3;G;Atmosphere Eight-Day Global Product - Terra;1.00;NA;0
-MOD08_M3;3;G;Atmosphere Monthly Global Product - Terra;1.00;NA;0
-MOD09A1;3;G;Surface Reflectance 8-Day L3 Global 500m - Terra;500.00;NA;0
-MOD09CMG;3;G;Surface Reflectance Daily L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD09GA;2G;G;MODIS/Terra Surface Reflectance Daily L2G Global 1km and 500m SIN Grid;1000.00,500.00;NA;0
-MOD09GHK;2G;G;Surface Reflectance Daily L2G Global 500m - Terra;500.00;NA;0
-MOD09GQ;2G;G;MODIS/Terra Surface Reflectance Daily L2G Global 250m SIN Grid - Terra;250.00;NA;0
-MOD09GQK;2G;G;Surface Reflectance Daily L2G Global 250m - Terra;250.00;NA;0
-MOD09GST;2G;G;Surface Reflectance Quality Daily L2G - Terra;1000.00;NA;0
-MOD09Q1;3;G;Surface Reflectance 8-Day L3 Global 250m - Terra;250.00;NA;0
-MOD10_L2;2;S;Snow Cover 5-Min L2 Swath 500m - Terra;500.00;NA;0
-MOD10A1;3;G;Snow Cover Daily L3 Global 500m SIN Grid - Terra;500.00;NA;0
-MOD10A2;3;G;Snow Cover 8-Day L3 Global 500m SIN Grid - Terra;500.00;NA;0
-MOD10C1;3;G;Snow Cover CMG Daily L3 Global Product 0.05Deg - Terra;0.05;NA;0
-MOD10C2;3;G;Snow Cover 8-Day L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD10CM;3;G;Snow Cover CMG Monthly L3 Global Product 0.05Deg - Terra;0.05;NA;0
-MOD11_L2;2;S;Land Surface Temperature/Emissivity Daily 5-Min L2 Swath 1km - Terra;1000.00;NA;0
-MOD11A1;3;G;Land Surface Temperature/Emissivity Daily L3 Global 1km - Terra;1000.00;NA;0
-MOD11A2;3;G;Land Surface Temperature/Emissivity 8-Day L3 Global 1km - Terra;1000.00;NA;0
-MOD11B1;3;G;Land Surface Temperature/Emissivity Daily L3 Global 5km - Terra;5000.00;NA;0
-MOD11C1;3;G;Land Surface Temperature/Emissivity Daily L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD11C2;3;G;Land Surface Temperature/Emissivity 8-Day L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD11C3;3;G;Land Surface Temperature/Emissivity Monthly L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD12C1;3;G;Land Cover Type Yearly L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD12Q1;3;G;Land Cover Type Yearly L3 Global 1km- Terra;1000.00;NA;0
-MOD12Q2;3;G;Land Cover Dynamics Yearly L3 Global 1km - Terra;1000.00;NA;0
-MOD13A1;3;G;Vegetation Indices 16-Day L3 Global 500m - Terra;500.00;NA;0
-MOD13A2;3;G;Vegetation Indices 16-Day L3 Global 1km - Terra;1000.00;NA;0
-MOD13A3;3;G;Vegetation Indices Monthly L3 Global 1km - Terra;1000.00;NA;0
-MOD13C1;3;G;Vegetation Indices 16-Day L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD13C2;3;G;Vegetation Indices Monthly L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD13Q1;3;G;Vegetation Indices 16-Day L3 Global 250m - Terra;250.00;NA;0
-MOD14;2;S;Thermal Anomalies/Fire 5-Min L2 Swath 1km - Terra;1000.00;NA;0
-MOD14A1;3;G;Thermal Anomalies/Fire Daily L3 Global 1km - Terra;1000.00;NA;0
-MOD14A2;3;G;Thermal Anomalies/Fire 8-Day L3 Global 1km - Terra;1000.00;NA;0
-MOD15A2;4;G;Leaf Area Index/FPAR 8-Day L4 Global 1km - Terra;1000.00;NA;0
-MOD16A2;4;G;Global Evapotranspiration 8-Day;1000.00;NA;0
-MOD16A3;4;G;Global Evapotranspiration Yearly;1000.00;NA;0
-MOD17A2;4;G;Gross Primary Productivity 8-Day L4 Global 1km - Terra;1000.00;NA;0
-MOD17A3;3;G;Gross Primary Productivity Yearly L4 Global 1km - Terra;1000.00;NA;0
-MOD29;2;S;Sea Ice Extent 5-Min L2 Swath 1km - Terra;1000.00;NA;0
-MOD29E1D;3;G;Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day - Terra;4000.00;NA;0
-MOD29P1D;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Day - Terra;1000.00;NA;0
-MOD29P1N;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Night - Terra;1000.00;NA;0
-MOD35_L2;2;S;Cloud Mask - Terra;250.00,1000.00;NA;0
-MOD43A1;4;G;BRDF/Albedo Model Parameters 16-Day L3 Global 500m - Terra;500.00;NA;0
-MOD43A2;4;G;BRDF/Albedo Quality 16-Day L3 Global 500m - Terra;500.00;NA;0
-MOD43A3;4;G;Albedo 16-Day L3 Global 500m - Terra;500.00;NA;0
-MOD43A4;4;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 Global 500m - Terra;500.00;NA;0
-MOD43B1;3;G;BRDF/Albedo Model Parameters 16-Day L3 Global 1km - Terra;1000.00;NA;0
-MOD43B2;4;G;BRDF/Albedo Quality 16-Day L3 Global 1km - Terra;1000.00;NA;0
-MOD43B3;3;G;Albedo 16-Day L3 Global 1km - Terra;1000.00;NA;0
-MOD43B4;3;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 Global 1km - Terra;1000.00;NA;0
-MOD43C1;3;G;BRDF/Albedo Parameters 16-Day L3 0.05Deg CMG - Terra;0.05;NA;0
-MOD43C2;4;G;BRDF/Albedo Snow-Free Quality 16-Day L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD43C3;3;G;Albedo 16-Day L3 Global 0.05Deg CMG - Terra;0.05;NA;0
-MOD43C4;4;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 0.05Deg CMG - Terra;0.05;NA;0
-MOD44A;3;G;Vegetation Cover Conversion Quarterly L3 Global 250m;250.00;NA;0
-MOD44B;3;G;Vegetation Continuous Fields Yearly L3 Global 500m;500.00;NA;0
-MOD45A1;3;G;Burned Area Monthly L3 Global 500m - Terra;500.00;NA;0
-MODATML2;2;S;Aerosol, Cloud and Water Vapor Subset 5-Min L2 Swath 5km and 10km - Terra;5000.00,10000.00;NA;0
-MODMGGAD;2G;G;Geolocation Angles Daily L2G Global 1km Day - Terra;1000.00;NA;0
-MODPT1KD;2G;G;Observation Pointers Daily L2G Global 1km Day - Terra;1000.00;NA;0
-MODPTHKM;2G;G;Observation Pointers Daily L2G Global 500m - Terra;500.00;NA;0
-MODPTQKM;2G;G;Observation Pointers Daily L2G Global 250m - Terra;250.00;NA;0
-MYD01;1A;S;Level 1A Radiance - Aqua;250.00,500.00,1000.00,1000.00;EV_250m,EV_500m,EV_1km_day,EV_1km_night;0
-MYD021KM;1B;S;Level 1B Calibrated Radiance 1km - Aqua;1000.00;EV_250_Aggr1km_RefSB,EV_500_Aggr1km_RefSB,EV_1KM_RefSB,EV_1KM_Emissive;0
-MYD02HKM;1B;S;Level 1B Calibrated Radiance 500m - Aqua;500.00;EV_250_Aggr500_RefSB,EV_500_RefSB;0
-MYD02QKM;1B;S;Level 1B Calibrated Radiance 250m - Aqua;250.00;EV_250_RefSB;0
-MYD02SSH;1B;S;Level 1B Calibrated Radiance 5km - Aqua;5000.00;EV_250_Aggr1km_RefSB,EV_500_Aggr1km_RefSB,EV_1KM_RefSB,EV_1KM_Emissive;0
-MYD03;1X;S;Geolocation Fields 1km - Aqua;1000.00;NA;0
-MYD04_3K;2;S;Aerosol Product 3km - Aqua;3000.00;NA;0
-MYD04_L2;2;S;Aerosol Product - Aqua;1000.00;NA;0
-MYD05_L2;2;S;Precipitable Water - Aqua;1000.00,5000.00;NA;0
-MYD06_L2;2;S;Cloud Product - Aqua;1000.00;NA;0
-MYD07_L2;2;S;Atmospheric Profile - Aqua;1000.00;NA;0
-MYD08_D3;3;G;Atmosphere Daily Global Product - Aqua;1.00;NA;0
-MYD08_E3;3;G;Atmosphere Eight-Day Global Product - Aqua;1.00;NA;0
-MYD08_M3;3;G;Atmosphere Monthly Global Product - Aqua;1.00;NA;0
-MYD09A1;3;G;Surface Reflectance 8-Day L3 Global 500m - Aqua;500.00;NA;0
-MYD09CMG;3;G;Surface Reflectance Daily L3 Global 0.05Deg CMG - Aqua;0.05;NA;0
-MYD09GA;2G;G;MODIS/Aqua Surface Reflectance Daily L2G Global 1km and 500m SIN Grid;1000.00,500.00;NA;0
-MYD09GHK;2G;G;Surface Reflectance Daily L2G Global 500m - Aqua;500.00;NA;0
-MYD09GQ;2G;G;MODIS/Terra Surface Reflectance Daily L2G Global 250m SIN Grid - Aqua;250.00;NA;0
-MYD09GQK;2G;G;Surface Reflectance Daily L2G Global 250m - Aqua;250.00;NA;0
-MYD09GST;2G;G;Surface Reflectance Quality Daily L2G - Aqua;1000.00;NA;0
-MYD09Q1;3;G;Surface Reflectance 8-Day L3 Global 250m - Aqua;250.00;NA;0
-MYD10_L2;2;S;Snow Cover 5-Min L2 Swath 500m - Aqua;500.00;NA;0
-MYD10A1;3;G;Snow Cover Daily L3 Global 500m SIN Grid - Aqua;500.00;NA;0
-MYD10A2;3;G;Snow Cover 8-Day L3 Global 500m SIN Grid - Aqua;500.00;NA;0
-MYD10C1;3;G;Snow Cover CMG Daily L3 Global Product 0.05Deg - Aqua;0.05;NA;0
-MYD10C2;3;G;Snow Cover 8-Day L3 Global 0.05Deg CMG - Aqua;0.05;NA;0
-MYD10CM;3;G;Snow Cover CMG Monthly L3 Global Product 0.05Deg - Aqua;0.05;NA;0
-MYD11_L2;2;S;Land Surface Temperature/Emissivity Daily 5-Min L2 Swath 1km - Aqua;1000.00;NA;0
-MYD11A1;3;G;Land Surface Temperature/Emissivity Daily L3 Global 1km - Aqua;1000.00;NA;0
-MYD11A2;3;G;Land Surface Temperature/Emissivity 8-Day L3 Global 1km - Aqua;1000.00;NA;0
-MYD11B1;3;G;Land Surface Temperature/Emissivity Daily L3 Global 5km - Aqua;5000.00;NA;0
-MYD11C1;3;G;Land Surface Temperature/Emissivity Daily L3 Global 0.05Deg CMG - Aqua;0.05;NA;0
-MYD11C2;3;G;Land Surface Temperature/Emissivity 8-Day L3 Global 0.05Deg CMG - Aqua;0.05;NA;0
-MYD11C3;3;G;Land Surface Temperature/Emissivity Monthly L3 Global 0.05Deg CMG - Aqua;0.05;NA;0
-MYD13A1;3;G;Vegetation Indices 16-Day L3 Global 500m - Aqua;500.00;NA;0
-MYD13A2;3;G;Vegetation Indices 16-Day L3 Global 1km - Aqua;1000.00;NA;0
-MYD13A3;3;G;Vegetation Indices Monthly L3 Global 1km - Aqua;1000.00;NA;0
-MYD13C1;3;G;Vegetation Indices 16-Day L3 Global 0.05Deg CMG - Aqua;0.05;NA;0
-MYD13C2;3;G;Vegetation Indices Monthly L3 Global 0.05Deg CMG - Aqua;0.05;NA;0
-MYD13Q1;3;G;Vegetation Indices 16-Day L3 Global 250m - Aqua;250.00;NA;0
-MYD14;2;S;Thermal Anomalies/Fire 5-Min L2 Swath 1km - Aqua;1000.00;NA;0
-MYD14A1;3;G;Thermal Anomalies/Fire Daily L3 Global 1km - Aqua;1000.00;NA;0
-MYD14A2;3;G;Thermal Anomalies/Fire 8-Day L3 Global 1km - Aqua;1000.00;NA;0
-MYD15A2;4;G;Leaf Area Index/FPAR 8-Day L4 Global 1km - Aqua;1000.00;NA;0
-MYD17A2;4;G;Gross Primary Productivity 8-Day L4 Global 1km - Aqua;1000.00;NA;0
-MYD17A3;3;G;Gross Primary Productivity Yearly L4 Global 1km - Aqua;1000.00;NA;0
-MYD29;2;S;Sea Ice Extent 5-Min L2 Swath 1km - Aqua;1000.00;NA;0
-MYD29E1D;3;G;Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day - Aqua;4000.00;NA;0
-MYD29P1D;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Day - Aqua;1000.00;NA;0
-MYD29P1N;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Night - Aqua;1000.00;NA;0
-MYD35_L2;2;S;Cloud Mask - Aqua;250.00,1000.00;NA;0
-MYDATML2;2;S;Aerosol, Cloud and Water Vapor Subset 5-Min L2 Swath 5km and 10km - Aqua;5000.00,10000.00;NA;0
-MYDMGGAD;2G;G;Geolocation Angles Daily L2G Global 1km Day - Aqua;1000.00;NA;0
-MYDPT1KD;2G;G;Observation Pointers Daily L2G Global 1km Day - Aqua;1000.00;NA;0
-MYDPTHKM;2G;G;Observation Pointers Daily L2G Global 500m - Aqua;500.00;NA;0
-MYDPTQKM;2G;G;Observation Pointers Daily L2G Global 250m - Aqua;250.00;NA;0
-MOD09;2;S;Level 2 5-Min Land Surface Reflectance - 250m, 500m, 1km - Terra;250.00,500.00,1000.00;NA;0
-MYD09;2;S;Level 2 5-Min Land Surface Reflectance - 250m, 500m, 1km - Aqua;250.00,500.00,1000.00;NA;0
+Symbol;Sensor;Level;Type;Name;GSD;Datasets;Sparse
+MCD12C1;Combined;3;G;Land Cover Type Yearly L3 Global 0.05Deg CMG ;0.05;NA;0
+MCD12Q1;Combined;3;G;Land Cover Type Yearly L3 Global 500m;500.00;NA;0
+MCD12Q2;Combined;3;G;Land Cover Dynamics Yearly L3 Global 1km;1000.00;NA;0
+MCD15A2;Combined;4;G;Leaf Area Index - Fraction of Photosynthetically Active Radiation 8-Day L4 Global 1km;1000.00;NA;0
+MCD15A2H;Combined;4;G;Leaf Area Index/FPAR 8-Day L4 Global 500 m SIN Grid;500.00;NA;0
+MCD15A3;Combined;4;G;Leaf Area Index - Fraction of Photosynthetically Active Radiation 4-Day L4 Global 1km;1000.00;NA;0
+MCD15A3H;Combined;4;G;Leaf Area Index/FPAR 4-Day L4 Global 500 m SIN Grid;500.00;NA;0
+MCD43A1;Combined;3;G;BRDF/Albedo Model Parameters 16-Day L3 Global 500m;500.00;NA;0
+MCD43A2;Combined;3;G;BRDF/Albedo Quality 16-Day L3 Global 500m;500.00;NA;0
+MCD43A3;Combined;3;G;Albedo 16-Day L3 Global 500m - Combined;500.00;NA;0
+MCD43A4;Combined;3;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 Global 500m;500.00;NA;0
+MCD43B1;Combined;3;G;BRDF/Albedo Model Parameters 16-Day L3 Global 1km;1000.00;NA;0
+MCD43B2;Combined;3;G;BRDF/Albedo Quality 16-Day L3 Global 1km;1000.00;NA;0
+MCD43B3;Combined;3;G;Albedo 16-Day L3 Global 1km;1000.00;NA;0
+MCD43B4;Combined;3;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 Global 1km;1000.00;NA;0
+MCD43C1;Combined;3;G;BRDF/Albedo Parameters 16-Day L3 0.05Deg CMG;0.05;NA;0
+MCD43C2;Combined;3;G;BRDF/Albedo Snow-Free Quality 16-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MCD43C3;Combined;3;G;Albedo 16-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MCD43C4;Combined;3;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 0.05Deg CMG;0.05;NA;0
+MCD43D01;Combined;3;G;BRDF/Albedo Parameter 1 Band 1 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D02;Combined;3;G;BRDF/Albedo Parameter 2 Band 1 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D03;Combined;3;G;BRDF/Albedo Parameter 3 Band 1 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D04;Combined;3;G;BRDF/Albedo Parameter 1 Band 2 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D05;Combined;3;G;BRDF/Albedo Parameter 2 Band 2 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D06;Combined;3;G;BRDF/Albedo Parameter 3 Band 2 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D07;Combined;3;G;BRDF/Albedo Parameter 1 Band 3 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D08;Combined;3;G;BRDF/Albedo Parameter 2 Band 3 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D09;Combined;3;G;BRDF/Albedo Parameter 3 Band 3 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D10;Combined;3;G;BRDF/Albedo Parameter 1 Band 4 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D11;Combined;3;G;BRDF/Albedo Parameter 2 Band 4 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D12;Combined;3;G;BRDF/Albedo Parameter 3 Band 4 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D13;Combined;3;G;BRDF/Albedo Parameter 1 Band 5 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D14;Combined;3;G;BRDF/Albedo Parameter 2 Band 5 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D15;Combined;3;G;BRDF/Albedo Parameter 3 Band 5 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D16;Combined;3;G;BRDF/Albedo Parameter 1 Band 6 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D17;Combined;3;G;BRDF/Albedo Parameter 2 Band 6 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D18;Combined;3;G;BRDF/Albedo Parameter 3 Band 6 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D19;Combined;3;G;BRDF/Albedo Parameter 1 Band 7 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D20;Combined;3;G;BRDF/Albedo Parameter 2 Band 7 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D21;Combined;3;G;BRDF/Albedo Parameter 3 Band 7 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D22;Combined;3;G;BRDF/Albedo Parameter 1 VIS Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D23;Combined;3;G;BRDF/Albedo Parameter 2 VIS Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D24;Combined;3;G;BRDF/Albedo Parameter 3 VIS Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D25;Combined;3;G;BRDF/Albedo Parameter 1 NIR Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D26;Combined;3;G;BRDF/Albedo Parameter 2 NIR Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D27;Combined;3;G;BRDF/Albedo Parameter 3 NIR Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D28;Combined;3;G;BRDF/Albedo Parameter 1 Shortwave Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D29;Combined;3;G;BRDF/Albedo Parameter 2 Shortwave Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D30;Combined;3;G;BRDF/Albedo Parameter 3 Shortwave Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D31;Combined;3;G;BRDF/Albedo QA BRDFQuality Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D32;Combined;3;G;BRDF/Albedo Local Solar Noon Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D33;Combined;3;G;BRDF/Albedo ValidObs Band 1 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D34;Combined;3;G;BRDF/Albedo ValidObs Band 2 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D35;Combined;3;G;BRDF/Albedo ValidObs Band 3 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D36;Combined;3;G;BRDF/Albedo ValidObs Band 4 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D37;Combined;3;G;BRDF/Albedo ValidObs Band 5 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D38;Combined;3;G;BRDF/Albedo ValidObs Band 6 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D39;Combined;3;G;BRDF/Albedo ValidObs Band 7 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D40;Combined;3;G;BRDF/Albedo QA SnowStatus Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D41;Combined;3;G;BRDF/Albedo Uncertainty Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D42;Combined;3;G;BRDF/Albedo BSA Band 1 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D43;Combined;3;G;BRDF/Albedo BSA Band 2 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D44;Combined;3;G;BRDF/Albedo BSA Band 3 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D45;Combined;3;G;BRDF/Albedo BSA Band 4 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D46;Combined;3;G;BRDF/Albedo BSA Band 5 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D47;Combined;3;G;BRDF/Albedo BSA Band 6 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D48;Combined;3;G;BRDF/Albedo BSA Band 7 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D49;Combined;3;G;BRDF/Albedo BSA Vis Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D50;Combined;3;G;BRDF/Albedo BSA Nir Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D51;Combined;3;G;BRDF/Albedo BSA ShortWave Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D52;Combined;3;G;BRDF/Albedo WSA Band 1 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D53;Combined;3;G;BRDF/Albedo WSA Band 2 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D54;Combined;3;G;BRDF/Albedo WSA Band 3 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D55;Combined;3;G;BRDF/Albedo WSA Band 4 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D56;Combined;3;G;BRDF/Albedo WSA Band 5 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D57;Combined;3;G;BRDF/Albedo WSA Band 6 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D58;Combined;3;G;BRDF/Albedo WSA Band 7 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D59;Combined;3;G;BRDF/Albedo WSA Vis Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D60;Combined;3;G;BRDF/Albedo WSA NIR Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D61;Combined;3;G;BRDF/Albedo WSA ShortWave Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D62;Combined;3;G;BRDF/Albedo NBAR Band 1 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D63;Combined;3;G;BRDF/Albedo NBAR Band 2 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D64;Combined;3;G;BRDF/Albedo NBAR Band 3 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D65;Combined;3;G;BRDF/Albedo NBAR Band 4 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D66;Combined;3;G;BRDF/Albedo NBAR Band 5 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D67;Combined;3;G;BRDF/Albedo NBAR Band 6 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD43D68;Combined;3;G;BRDF/Albedo NBAR Band 7 Daily L3 Global 30 ArcSec CMG;1000.00;NA;0
+MCD45A1;Combined;3;G;Burned Area Monthly L3 Global 500m;500.00;NA;0
+MOD01;Terra;1A;S;Level 1A Radiance;250.00,500.00,1000.00,1000.00;EV_250m,EV_500m,EV_1km_day,EV_1km_night;0
+MOD021KM;Terra;1B;S;Level 1B Calibrated Radiance 1km;1000.00;EV_250_Aggr1km_RefSB,EV_500_Aggr1km_RefSB,EV_1KM_RefSB,EV_1KM_Emissive;0
+MOD02HKM;Terra;1B;S;Level 1B Calibrated Radiance 500m;500.00;EV_250_Aggr500_RefSB,EV_500_RefSB;0
+MOD02QKM;Terra;1B;S;Level 1B Calibrated Radiance 250m;250.00;EV_250_RefSB;0
+MOD02SSH;Terra;1B;S;Level 1B Calibrated Radiance 5km;5000.00;EV_250_Aggr1km_RefSB,EV_500_Aggr1km_RefSB,EV_1KM_RefSB,EV_1KM_Emissive;0
+MOD03;Terra;1X;S;Geolocation Fields 1km;1000.00;NA;0
+MOD04_3K;Terra;2;S;Aerosol Product 3km;3000.00;NA;0
+MOD04_L2;Terra;2;S;Aerosol Product;1000.00;NA;0
+MOD05_L2;Terra;2;S;Precipitable Water;1000.00,5000.00;NA;0
+MOD06_L2;Terra;2;S;Cloud Product;1000.00;NA;0
+MOD07_L2;Terra;2;S;Atmospheric Profile;1000.00;NA;0
+MOD08_D3;Terra;3;G;Atmosphere Daily Global Product;1.00;NA;0
+MOD08_E3;Terra;3;G;Atmosphere Eight-Day Global Product;1.00;NA;0
+MOD08_M3;Terra;3;G;Atmosphere Monthly Global Product;1.00;NA;0
+MOD09;Aqua;2;S;Level 2 5-Min Land Surface Reflectance - 250m, 500m, 1km;250.00,500.00,1000.00;NA;0
+MOD09A1;Terra;3;G;Surface Reflectance 8-Day L3 Global 500m;500.00;NA;0
+MOD09CMG;Terra;3;G;Surface Reflectance Daily L3 Global 0.05Deg CMG;0.05;NA;0
+MOD09GA;Terra;2G;G;Surface Reflectance Daily L2G Global 1km and 500m SIN Grid;1000.00,500.00;NA;0
+MOD09GHK;Terra;2G;G;Surface Reflectance Daily L2G Global 500m;500.00;NA;0
+MOD09GQ;Terra;2G;G;Surface Reflectance Daily L2G Global 250m SIN Grid;250.00;NA;0
+MOD09GQK;Terra;2G;G;Surface Reflectance Daily L2G Global 250m;250.00;NA;0
+MOD09GST;Terra;2G;G;Surface Reflectance Quality Daily L2G;1000.00;NA;0
+MOD09Q1;Terra;3;G;Surface Reflectance 8-Day L3 Global 250m;250.00;NA;0
+MOD10_L2;Terra;2;S;Snow Cover 5-Min L2 Swath 500m;500.00;NA;0
+MOD10A1;Terra;3;G;Snow Cover Daily L3 Global 500m SIN Grid;500.00;NA;0
+MOD10A2;Terra;3;G;Snow Cover 8-Day L3 Global 500m SIN Grid;500.00;NA;0
+MOD10C1;Terra;3;G;Snow Cover CMG Daily L3 Global Product 0.05Deg;0.05;NA;0
+MOD10C2;Terra;3;G;Snow Cover 8-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MOD10CM;Terra;3;G;Snow Cover CMG Monthly L3 Global Product 0.05Deg;0.05;NA;0
+MOD11_L2;Terra;2;S;Land Surface Temperature/Emissivity Daily 5-Min L2 Swath 1km;1000.00;NA;0
+MOD11A1;Terra;3;G;Land Surface Temperature/Emissivity Daily L3 Global 1km;1000.00;NA;0
+MOD11A2;Terra;3;G;Land Surface Temperature/Emissivity 8-Day L3 Global 1km;1000.00;NA;0
+MOD11B1;Terra;3;G;Land Surface Temperature/Emissivity Daily L3 Global 5km;5000.00;NA;0
+MOD11B2;Terra;3;G;Land Surface Temperature and Emissivity 8-Day L3 Global 6 km Grid SIN;0.05;NA;0
+MOD11B3;Terra;3;G;Land Surface Temperature and Emissivity Monthly L3 Global 6 km Grid SIN;0.05;NA;0
+MOD11C1;Terra;3;G;Land Surface Temperature/Emissivity Daily L3 Global 0.05Deg CMG;0.05;NA;0
+MOD11C2;Terra;3;G;Land Surface Temperature/Emissivity 8-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MOD11C3;Terra;3;G;Land Surface Temperature/Emissivity Monthly L3 Global 0.05Deg CMG;0.05;NA;0
+MOD12C1;Terra;3;G;Land Cover Type Yearly L3 Global 0.05Deg CMG;0.05;NA;0
+MOD12Q1;Terra;3;G;Land Cover Type Yearly L3 Global 1km;1000.00;NA;0
+MOD12Q2;Terra;3;G;Land Cover Dynamics Yearly L3 Global 1km;1000.00;NA;0
+MOD13A1;Terra;3;G;Vegetation Indices 16-Day L3 Global 500m;500.00;NA;0
+MOD13A2;Terra;3;G;Vegetation Indices 16-Day L3 Global 1km;1000.00;NA;0
+MOD13A3;Terra;3;G;Vegetation Indices Monthly L3 Global 1km;1000.00;NA;0
+MOD13C1;Terra;3;G;Vegetation Indices 16-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MOD13C2;Terra;3;G;Vegetation Indices Monthly L3 Global 0.05Deg CMG;0.05;NA;0
+MOD13Q1;Terra;3;G;Vegetation Indices 16-Day L3 Global 250m;250.00;NA;0
+MOD14;Terra;2;S;Thermal Anomalies/Fire 5-Min L2 Swath 1km;1000.00;NA;0
+MOD14A1;Terra;3;G;Thermal Anomalies/Fire Daily L3 Global 1km;1000.00;NA;0
+MOD14A2;Terra;3;G;Thermal Anomalies/Fire 8-Day L3 Global 1km;1000.00;NA;0
+MOD15A2;Terra;4;G;Leaf Area Index/FPAR 8-Day L4 Global 1km;1000.00;NA;0
+MOD15A2H;Terra;4;G;Leaf Area Index/FPAR 8-Day L4 Global 500 m SIN Grid;500.00;NA;0
+MOD16A2;Terra;4;G;Global Evapotranspiration 8-Day;1000.00;NA;0
+MOD16A3;Terra;4;G;Global Evapotranspiration Yearly;1000.00;NA;0
+MOD17A2;Terra;4;G;Gross Primary Productivity 8-Day L4 Global 1km;1000.00;NA;0
+MOD17A2H;Terra;4;G;Gross Primary Productivity 8-Day L4 Global 500 m SIN Grid;500.00;NA;0
+MOD17A3;Terra;3;G;Gross Primary Productivity Yearly L4 Global 1km;1000.00;NA;0
+MOD17A3H;Terra;4;G;Net Primary Production Yearly L4 Global 500 m SIN Grid;500.00;NA;0
+MOD29;Terra;2;S;Sea Ice Extent 5-Min L2 Swath 1km;1000.00;NA;0
+MOD29E1D;Terra;3;G;Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day;4000.00;NA;0
+MOD29P1D;Terra;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Day;1000.00;NA;0
+MOD29P1N;Terra;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Night;1000.00;NA;0
+MOD35_L2;Terra;2;S;Cloud Mask;250.00,1000.00;NA;0
+MOD43A1;Terra;4;G;BRDF/Albedo Model Parameters 16-Day L3 Global 500m;500.00;NA;0
+MOD43A2;Terra;4;G;BRDF/Albedo Quality 16-Day L3 Global 500m;500.00;NA;0
+MOD43A3;Terra;4;G;Albedo 16-Day L3 Global 500m;500.00;NA;0
+MOD43A4;Terra;4;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 Global 500m;500.00;NA;0
+MOD43B1;Terra;3;G;BRDF/Albedo Model Parameters 16-Day L3 Global 1km;1000.00;NA;0
+MOD43B2;Terra;4;G;BRDF/Albedo Quality 16-Day L3 Global 1km;1000.00;NA;0
+MOD43B3;Terra;3;G;Albedo 16-Day L3 Global 1km;1000.00;NA;0
+MOD43B4;Terra;3;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 Global 1km;1000.00;NA;0
+MOD43C1;Terra;3;G;BRDF/Albedo Parameters 16-Day L3 0.05Deg CMG;0.05;NA;0
+MOD43C2;Terra;4;G;BRDF/Albedo Snow-Free Quality 16-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MOD43C3;Terra;3;G;Albedo 16-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MOD43C4;Terra;4;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 0.05Deg CMG;0.05;NA;0
+MOD44A;Terra;3;G;Vegetation Cover Conversion Quarterly L3 Global 250m;250.00;NA;0
+MOD44B;Terra;3;G;Vegetation Continuous Fields Yearly L3 Global 500m;500.00;NA;0
+MOD45A1;Terra;3;G;Burned Area Monthly L3 Global 500m;500.00;NA;0
+MODATML2;Terra;2;S;Aerosol, Cloud and Water Vapor Subset 5-Min L2 Swath 5km and 10km;5000.00,10000.00;NA;0
+MODMGGAD;Terra;2G;G;Geolocation Angles Daily L2G Global 1km Day;1000.00;NA;0
+MODOCGA;Terra;2G;G;Ocean Reflectance Daily L2G-Lite Global 1 km SIN Grid;1000.00;NA;0
+MODPT1KD;Terra;2G;G;Observation Pointers Daily L2G Global 1km Day;1000.00;NA;0
+MODPTHKM;Terra;2G;G;Observation Pointers Daily L2G Global 500m;500.00;NA;0
+MODPTQKM;Terra;2G;G;Observation Pointers Daily L2G Global 250m;250.00;NA;0
+MODTBGA;Terra;2G;G;Thermal Bands Daily L2G Global 1 km SIN Grid;1000.00;NA;0
+MYD01;Aqua;1A;S;Level 1A Radiance;250.00,500.00,1000.00,1000.00;EV_250m,EV_500m,EV_1km_day,EV_1km_night;0
+MYD021KM;Aqua;1B;S;Level 1B Calibrated Radiance 1km;1000.00;EV_250_Aggr1km_RefSB,EV_500_Aggr1km_RefSB,EV_1KM_RefSB,EV_1KM_Emissive;0
+MYD02HKM;Aqua;1B;S;Level 1B Calibrated Radiance 500m;500.00;EV_250_Aggr500_RefSB,EV_500_RefSB;0
+MYD02QKM;Aqua;1B;S;Level 1B Calibrated Radiance 250m;250.00;EV_250_RefSB;0
+MYD02SSH;Aqua;1B;S;Level 1B Calibrated Radiance 5km;5000.00;EV_250_Aggr1km_RefSB,EV_500_Aggr1km_RefSB,EV_1KM_RefSB,EV_1KM_Emissive;0
+MYD03;Aqua;1X;S;Geolocation Fields 1km;1000.00;NA;0
+MYD04_3K;Aqua;2;S;Aerosol Product 3km;3000.00;NA;0
+MYD04_L2;Aqua;2;S;Aerosol Product;1000.00;NA;0
+MYD05_L2;Aqua;2;S;Precipitable Water;1000.00,5000.00;NA;0
+MYD06_L2;Aqua;2;S;Cloud Product;1000.00;NA;0
+MYD07_L2;Aqua;2;S;Atmospheric Profile;1000.00;NA;0
+MYD08_D3;Aqua;3;G;Atmosphere Daily Global Product;1.00;NA;0
+MYD08_E3;Aqua;3;G;Atmosphere Eight-Day Global Product;1.00;NA;0
+MYD08_M3;Aqua;3;G;Atmosphere Monthly Global Product;1.00;NA;0
+MYD09;Aqua;2;S;Level 2 5-Min Land Surface Reflectance - 250m, 500m, 1km;250.00,500.00,1000.00;NA;0
+MYD09A1;Aqua;3;G;Surface Reflectance 8-Day L3 Global 500m;500.00;NA;0
+MYD09CMG;Aqua;3;G;Surface Reflectance Daily L3 Global 0.05Deg CMG;0.05;NA;0
+MYD09GA;Aqua;2G;G;Surface Reflectance Daily L2G Global 1km and 500m SIN Grid;1000.00,500.00;NA;0
+MYD09GHK;Aqua;2G;G;Surface Reflectance Daily L2G Global 500m;500.00;NA;0
+MYD09GQ;Aqua;2G;G;Surface Reflectance Daily L2G Global 250m SIN Grid;250.00;NA;0
+MYD09GQK;Aqua;2G;G;Surface Reflectance Daily L2G Global 250m;250.00;NA;0
+MYD09GST;Aqua;2G;G;Surface Reflectance Quality Daily L2G;1000.00;NA;0
+MYD09Q1;Aqua;3;G;Surface Reflectance 8-Day L3 Global 250m;250.00;NA;0
+MYD10_L2;Aqua;2;S;Snow Cover 5-Min L2 Swath 500m;500.00;NA;0
+MYD10A1;Aqua;3;G;Snow Cover Daily L3 Global 500m SIN Grid;500.00;NA;0
+MYD10A2;Aqua;3;G;Snow Cover 8-Day L3 Global 500m SIN Grid;500.00;NA;0
+MYD10C1;Aqua;3;G;Snow Cover CMG Daily L3 Global Product 0.05Deg;0.05;NA;0
+MYD10C2;Aqua;3;G;Snow Cover 8-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MYD10CM;Aqua;3;G;Snow Cover CMG Monthly L3 Global Product 0.05Deg;0.05;NA;0
+MYD11_L2;Aqua;2;S;Land Surface Temperature/Emissivity Daily 5-Min L2 Swath 1km;1000.00;NA;0
+MYD11A1;Aqua;3;G;Land Surface Temperature/Emissivity Daily L3 Global 1km;1000.00;NA;0
+MYD11A2;Aqua;3;G;Land Surface Temperature/Emissivity 8-Day L3 Global 1km;1000.00;NA;0
+MYD11B1;Aqua;3;G;Land Surface Temperature/Emissivity Daily L3 Global 5km;5000.00;NA;0
+MYD11B2;Aqua;3;G;Land Surface Temperature and Emissivity 8-Day L3 Global 6 km Grid SIN;0.05;NA;0
+MYD11B3;Aqua;3;G;Land Surface Temperature and Emissivity Monthly L3 Global 6 km Grid SIN;0.05;NA;0
+MYD11C1;Aqua;3;G;Land Surface Temperature/Emissivity Daily L3 Global 0.05Deg CMG;0.05;NA;0
+MYD11C2;Aqua;3;G;Land Surface Temperature/Emissivity 8-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MYD11C3;Aqua;3;G;Land Surface Temperature/Emissivity Monthly L3 Global 0.05Deg CMG;0.05;NA;0
+MYD13A1;Aqua;3;G;Vegetation Indices 16-Day L3 Global 500m;500.00;NA;0
+MYD13A2;Aqua;3;G;Vegetation Indices 16-Day L3 Global 1km;1000.00;NA;0
+MYD13A3;Aqua;3;G;Vegetation Indices Monthly L3 Global 1km;1000.00;NA;0
+MYD13C1;Aqua;3;G;Vegetation Indices 16-Day L3 Global 0.05Deg CMG;0.05;NA;0
+MYD13C2;Aqua;3;G;Vegetation Indices Monthly L3 Global 0.05Deg CMG;0.05;NA;0
+MYD13Q1;Aqua;3;G;Vegetation Indices 16-Day L3 Global 250m;250.00;NA;0
+MYD14;Aqua;2;S;Thermal Anomalies/Fire 5-Min L2 Swath 1km;1000.00;NA;0
+MYD14A1;Aqua;3;G;Thermal Anomalies/Fire Daily L3 Global 1km;1000.00;NA;0
+MYD14A2;Aqua;3;G;Thermal Anomalies/Fire 8-Day L3 Global 1km;1000.00;NA;0
+MYD15A2;Aqua;4;G;Leaf Area Index/FPAR 8-Day L4 Global 1km;1000.00;NA;0
+MYD15A2H;Aqua;4;G;Leaf Area Index/FPAR 8-Day L4 Global 500 m SIN Grid;500.00;NA;0
+MYD17A2;Aqua;4;G;Gross Primary Productivity 8-Day L4 Global 1km;1000.00;NA;0
+MYD17A2H;Aqua;4;G;Gross Primary Productivity 8-Day L4 Global 500 m SIN Grid;500.00;NA;0
+MYD17A3;Aqua;4;G;Gross Primary Productivity Yearly L4 Global 1km;1000.00;NA;0
+MYD17A3H;Aqua;4;G;Net Primary Production Yearly L4 Global 500 m SIN Grid;500.00;NA;0
+MYD29;Aqua;2;S;Sea Ice Extent 5-Min L2 Swath 1km;1000.00;NA;0
+MYD29E1D;Aqua;3;G;Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day;4000.00;NA;0
+MYD29P1D;Aqua;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Day;1000.00;NA;0
+MYD29P1N;Aqua;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Night;1000.00;NA;0
+MYD35_L2;Aqua;2;S;Cloud Mask;250.00,1000.00;NA;0
+MYDATML2;Aqua;2;S;Aerosol, Cloud and Water Vapor Subset 5-Min L2 Swath 5km and 10km;5000.00,10000.00;NA;0
+MYDMGGAD;Aqua;2G;G;Geolocation Angles Daily L2G Global 1km Day;1000.00;NA;0
+MYDOCGA;Aqua;2G;G;Ocean Reflectance Daily L2G-Lite Global 1 km SIN Grid;1000.00;NA;0
+MYDPT1KD;Aqua;2G;G;Observation Pointers Daily L2G Global 1km Day;1000.00;NA;0
+MYDPTHKM;Aqua;2G;G;Observation Pointers Daily L2G Global 500m;500.00;NA;0
+MYDPTQKM;Aqua;2G;G;Observation Pointers Daily L2G Global 250m;250.00;NA;0
+MYDTBGA;Aqua;2G;G;Thermal Bands Daily L2G Global 1 km SIN Grid;1000.00;NA;0
