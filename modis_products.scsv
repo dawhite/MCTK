@@ -1,5 +1,5 @@
 Symbol;Sensor;Level;Type;Name;GSD;Datasets;Sparse
-MCD12C1;Combined;3;G;Land Cover Type Yearly L3 Global 0.05Deg CMG ;0.05;NA;0
+MCD12C1;Combined;3;G;Land Cover Type Yearly L3 Global 0.05Deg CMG;0.05;NA;0
 MCD12Q1;Combined;3;G;Land Cover Type Yearly L3 Global 500m;500.00;NA;0
 MCD12Q2;Combined;3;G;Land Cover Dynamics Yearly L3 Global 1km;1000.00;NA;0
 MCD15A2;Combined;4;G;Leaf Area Index - Fraction of Photosynthetically Active Radiation 8-Day L4 Global 1km;1000.00;NA;0
@@ -164,6 +164,7 @@ MOD43C3;Terra;3;G;Albedo 16-Day L3 Global 0.05Deg CMG;0.05;NA;0
 MOD43C4;Terra;4;G;Nadir BRDF-Adjusted Reflectance 16-Day L3 0.05Deg CMG;0.05;NA;0
 MOD44A;Terra;3;G;Vegetation Cover Conversion Quarterly L3 Global 250m;250.00;NA;0
 MOD44B;Terra;3;G;Vegetation Continuous Fields Yearly L3 Global 500m;500.00;NA;0
+MOD44W;Terra;3;G;Land Water Mask Derived from MODIS and SRTM L3 Yearly Global 250 m SIN Grid;250.00;NA;0
 MOD45A1;Terra;3;G;Burned Area Monthly L3 Global 500m;500.00;NA;0
 MODATML2;Terra;2;S;Aerosol, Cloud and Water Vapor Subset 5-Min L2 Swath 5km and 10km;5000.00,10000.00;NA;0
 MODMGGAD;Terra;2G;G;Geolocation Angles Daily L2G Global 1km Day;1000.00;NA;0
