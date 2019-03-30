@@ -147,6 +147,10 @@ MOD17A2;Terra;4;G;Gross Primary Productivity 8-Day L4 Global 1km;1000.00;NA;0
 MOD17A2H;Terra;4;G;Gross Primary Productivity 8-Day L4 Global 500 m SIN Grid;500.00;NA;0
 MOD17A3;Terra;3;G;Gross Primary Productivity Yearly L4 Global 1km;1000.00;NA;0
 MOD17A3H;Terra;4;G;Net Primary Production Yearly L4 Global 500 m SIN Grid;500.00;NA;0
+MOD21;Terra;2;S;Land Surface Temperature/3-Band Emissivity 5-Min L2 1 km;1000.00;NA;0
+MOD21A1D;Terra;3;G;Land Surface Temperature/3-Band Emissivity Daily L3 Global 1 km SIN Grid Day;1000.00;NA;0
+MOD21A1N;Terra;3;G;Land Surface Temperature/3-Band Emissivity Daily L3 Global 1 km SIN Grid Night;1000.00;NA;0
+MOD21A2;Terra;3;G;Land Surface Temperature/3-Band Emissivity 8-Day L3 Global 1 km SIN Grid;1000.00;NA;0
 MOD29;Terra;2;S;Sea Ice Extent 5-Min L2 Swath 1km;1000.00;NA;0
 MOD29E1D;Terra;3;G;Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day;4000.00;NA;0
 MOD29P1D;Terra;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Day;1000.00;NA;0
@@ -228,6 +232,10 @@ MYD17A2;Aqua;4;G;Gross Primary Productivity 8-Day L4 Global 1km;1000.00;NA;0
 MYD17A2H;Aqua;4;G;Gross Primary Productivity 8-Day L4 Global 500 m SIN Grid;500.00;NA;0
 MYD17A3;Aqua;4;G;Gross Primary Productivity Yearly L4 Global 1km;1000.00;NA;0
 MYD17A3H;Aqua;4;G;Net Primary Production Yearly L4 Global 500 m SIN Grid;500.00;NA;0
+MYD21;Aqua;2;S;Land Surface Temperature/3-Band Emissivity 5-Min L2 1 km;1000.00;NA;0
+MYD21A1D;Aqua;3;G;Land Surface Temperature/3-Band Emissivity Daily L3 Global 1 km SIN Grid Day;1000.00;NA;0
+MYD21A1N;Aqua;3;G;Land Surface Temperature/3-Band Emissivity Daily L3 Global 1 km SIN Grid Night;1000.00;NA;0
+MYD21A2;Aqua;3;G;Land Surface Temperature/3-Band Emissivity 8-Day L3 Global 1 km SIN Grid;1000.00;NA;0
 MYD29;Aqua;2;S;Sea Ice Extent 5-Min L2 Swath 1km;1000.00;NA;0
 MYD29E1D;Aqua;3;G;Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day;4000.00;NA;0
 MYD29P1D;Aqua;3;G;Sea Ice Extent Daily L3 Global 1km EASE-Grid Day;1000.00;NA;0
