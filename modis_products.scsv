@@ -6,6 +6,7 @@ MCD15A2;Combined;4;G;Leaf Area Index - Fraction of Photosynthetically Active Rad
 MCD15A2H;Combined;4;G;Leaf Area Index/FPAR 8-Day L4 Global 500 m SIN Grid;500.00;NA;0
 MCD15A3;Combined;4;G;Leaf Area Index - Fraction of Photosynthetically Active Radiation 4-Day L4 Global 1km;1000.00;NA;0
 MCD15A3H;Combined;4;G;Leaf Area Index/FPAR 4-Day L4 Global 500 m SIN Grid;500.00;NA;0
+MCD18A2;Combined;3;G;Photosynthetically Active Radiation Daily 3-Hour L3 Global 5km SIN Grid;5000.00;NA;0
 MCD19A1;Combined;2G;G;MAIAC Land Surface BRF Daily L2G Global 500m and 1km SIN Grid;1000.00,500.00,5000.00;NA;0
 MCD19A2;Combined;2G;G;MAIAC Land Aerosol Optical Depth Daily L2G 1km SIN Grid;1000.00,5000.00;NA;0
 MCD43A1;Combined;3;G;BRDF/Albedo Model Parameters 16-Day L3 Global 500m;500.00;NA;0
